@@ -11,3 +11,9 @@ Conclusion: Predicting crude oil prices depends a lot on several other factors i
 
 Decomposition 
 ![decomposition](https://user-images.githubusercontent.com/76424351/232764302-9829352f-fa96-4173-9b03-4ec1d267fca6.png)
+
+Residual Analysis(QQ plot)
+![QQ_plot](https://user-images.githubusercontent.com/76424351/232764444-3565ff2f-0b50-4545-a0d5-7012a44ce1bb.png)
+
+Final Mape score
+![mape](https://user-images.githubusercontent.com/76424351/232764531-69343ea6-cd66-4fa0-b927-b399124de19d.png)
